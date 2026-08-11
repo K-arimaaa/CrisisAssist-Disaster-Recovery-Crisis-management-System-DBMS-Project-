@@ -126,23 +126,8 @@ Planned future enhancements include:
 
 ---
 
-## Academic Information
-
-* **Course:** Database Management Systems Laboratory
-* **Semester:** 2nd Year, 2nd Semester
-* **Department:** Information and Communication Engineering
-* **Institution:** Bangladesh University of Professionals (BUP)
-
----
-
 ## Repository Purpose
 
 This repository is maintained for **academic portfolio and project showcase purposes**. It contains project screenshots, database diagrams, and documentation to demonstrate the project design and implementation concepts.
-
----
-
-## Acknowledgement
-
-We sincerely thank our course instructor and department for their guidance and support throughout the development of this project.
 
 ---
