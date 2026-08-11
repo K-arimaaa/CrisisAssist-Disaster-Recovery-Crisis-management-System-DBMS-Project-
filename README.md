@@ -57,7 +57,7 @@ The database was designed following **Third Normal Form (3NF)** to ensure:
 ---
 
 
-## 👨‍💻 Team Members
+## Team Members
 
 ### **Karimun Nahar Karima**
 
